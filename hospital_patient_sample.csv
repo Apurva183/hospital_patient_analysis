@@ -1,0 +1,101 @@
+Patient_ID,Patient_Name,Age,Gender,Blood_Group,Disease,Symptoms,Doctor_Name,Department,Admission_Date,Discharge_Date,Room_No,Patient_Status,Consultation_Fee_INR,Medicine_Cost_INR,Room_Charges_INR,Total_Bill_INR,Payment_Status
+P001,Ishaan Patil,36,Male,B-,Hypertension,High blood pressure; dizziness,Dr. Raj Verma,Cardiology,2026-02-22,2026-03-03,R123,Discharged,800,3700,1000,5500,Paid
+P002,Aditya Jadhav,30,Other,A+,Gastritis,Stomach pain; nausea,Dr. Rahul Nair,Gastroenterology,2026-04-12,,R280,Admitted,800,3700,4000,8500,Pending
+P003,Meera Deshmukh,1,Male,O+,Migraine,Recurring severe headache,Dr. Meera Desai,Neurology,2026-05-23,2026-05-29,R127,Discharged,400,3400,2000,5800,Pending
+P004,Priya Chavan,34,Male,O-,Gastritis,Stomach pain; nausea,Dr. Rahul Nair,Gastroenterology,2026-03-05,,R197,Under Treatment,400,4800,5000,10200,Partially Paid
+P005,Riya Sawant,47,Other,B-,Back Pain,Lower back pain; stiffness,Dr. Sanjay Patil,Orthopedics,2026-02-05,2026-02-09,R298,Discharged,600,900,4000,5500,Paid
+P006,Sneha Deshmukh,59,Other,AB-,Hypertension,High blood pressure; dizziness,Dr. Raj Verma,Cardiology,2026-07-09,2026-07-20,R169,Discharged,1000,5800,11000,17800,Paid
+P007,Riya Kadam,22,Other,B-,Hypertension,High blood pressure; dizziness,Dr. Raj Verma,Cardiology,2026-08-25,2026-09-05,R277,Discharged,800,2000,11000,13800,Pending
+P008,Vivaan Jadhav,5,Female,O+,Arthritis,Joint pain; stiffness,Dr. Sanjay Patil,Orthopedics,2026-02-03,2026-02-13,R284,Discharged,600,2000,11000,13600,Pending
+P009,Sneha Sawant,83,Female,B+,Arthritis,Joint pain; stiffness,Dr. Sanjay Patil,Orthopedics,2026-03-13,2026-03-22,R238,Discharged,600,5000,7000,12600,Partially Paid
+P010,Sneha Joshi,29,Male,O-,Viral Fever,Fever; headache; body ache,Dr. Amit Shah,General Medicine,2026-01-25,,R140,Under Treatment,1000,1600,7000,9600,Partially Paid
+P011,Aditya More,49,Other,O-,Gastritis,Stomach pain; nausea,Dr. Rahul Nair,Gastroenterology,2026-05-09,,R103,Under Treatment,1000,1200,5000,7200,Partially Paid
+P012,Ananya Sharma,38,Female,B+,Anemia,Fatigue; weakness,Dr. Pooja Mehta,Hematology,2026-01-02,,R285,Under Treatment,600,4400,3000,8000,Partially Paid
+P013,Ishaan Gaikwad,81,Female,B-,Hypertension,High blood pressure; dizziness,Dr. Raj Verma,Cardiology,2026-07-11,,R239,Admitted,800,300,6000,7100,Pending
+P014,Aarav Sharma,47,Female,B-,Type 2 Diabetes,Increased thirst; fatigue,Dr. Kavita Joshi,Endocrinology,2026-05-04,,R121,Under Treatment,400,4200,2000,6600,Partially Paid
+P015,Rohan Kulkarni,85,Female,B+,Arthritis,Joint pain; stiffness,Dr. Sanjay Patil,Orthopedics,2026-09-28,,R209,Under Treatment,500,4700,4000,9200,Partially Paid
+P016,Om More,86,Other,AB-,Anemia,Fatigue; weakness,Dr. Pooja Mehta,Hematology,2026-09-22,2026-09-26,R158,Discharged,400,3000,1000,4400,Partially Paid
+P017,Ira Jadhav,76,Male,A+,Viral Fever,Fever; headache; body ache,Dr. Amit Shah,General Medicine,2026-01-31,2026-02-01,R185,Discharged,400,4500,4000,8900,Pending
+P018,Neha Jadhav,70,Male,O-,Asthma,Wheezing; shortness of breath,Dr. Neha Rao,Pulmonology,2026-08-31,,R149,Admitted,400,1000,7000,8400,Pending
+P019,Kavya More,60,Other,A+,Respiratory Infection,Cough; sore throat,Dr. Neha Rao,Pulmonology,2026-02-20,2026-03-04,R187,Discharged,400,2300,4000,6700,Paid
+P020,Ira Pawar,18,Female,B+,Arthritis,Joint pain; stiffness,Dr. Sanjay Patil,Orthopedics,2026-08-25,2026-08-27,R214,Discharged,800,1100,1000,2900,Partially Paid
+P021,Ira Gaikwad,2,Male,B-,Hypertension,High blood pressure; dizziness,Dr. Raj Verma,Cardiology,2026-07-28,2026-08-01,R203,Discharged,400,1600,7000,9000,Paid
+P022,Sneha Deshmukh,59,Female,O+,Back Pain,Lower back pain; stiffness,Dr. Sanjay Patil,Orthopedics,2026-10-12,2026-10-20,R140,Discharged,500,2700,4000,7200,Paid
+P023,Meera Bhosale,70,Male,AB-,Type 2 Diabetes,Increased thirst; fatigue,Dr. Kavita Joshi,Endocrinology,2026-01-26,2026-02-04,R319,Discharged,800,1500,1000,3300,Partially Paid
+P024,Aditya Gaikwad,24,Male,A-,Respiratory Infection,Cough; sore throat,Dr. Neha Rao,Pulmonology,2026-05-01,2026-05-11,R164,Discharged,800,5100,1000,6900,Partially Paid
+P025,Aditya More,85,Other,AB-,Arthritis,Joint pain; stiffness,Dr. Sanjay Patil,Orthopedics,2026-04-15,2026-04-21,R162,Discharged,600,3500,3000,7100,Partially Paid
+P026,Om Pawar,41,Male,A+,Anemia,Fatigue; weakness,Dr. Pooja Mehta,Hematology,2026-10-16,,R119,Under Treatment,800,2000,5000,7800,Paid
+P027,Priya Sawant,9,Male,AB-,Arthritis,Joint pain; stiffness,Dr. Sanjay Patil,Orthopedics,2026-03-22,2026-03-31,R281,Discharged,600,5300,11000,16900,Partially Paid
+P028,Aarav Kadam,71,Female,A-,Hypertension,High blood pressure; dizziness,Dr. Raj Verma,Cardiology,2026-05-16,2026-05-18,R291,Discharged,800,1500,5000,7300,Pending
+P029,Riya Jadhav,44,Male,AB+,Gastritis,Stomach pain; nausea,Dr. Rahul Nair,Gastroenterology,2026-09-08,2026-09-09,R124,Discharged,1000,3700,5000,9700,Paid
+P030,Aarav Joshi,17,Other,AB+,Hypertension,High blood pressure; dizziness,Dr. Raj Verma,Cardiology,2026-08-15,2026-08-22,R244,Discharged,400,1200,2000,3600,Partially Paid
+P031,Rohan Shinde,5,Female,B+,Kidney Stones,Abdominal pain; painful urination,Dr. Anil Kulkarni,Urology,2026-03-07,2026-03-13,R304,Discharged,400,3200,4000,7600,Partially Paid
+P032,Sahil Kadam,14,Female,O+,Thyroid Disorder,Weight change; tiredness,Dr. Kavita Joshi,Endocrinology,2026-03-21,,R161,Under Treatment,500,1700,7000,9200,Paid
+P033,Rahul Bhosale,43,Female,B-,Arthritis,Joint pain; stiffness,Dr. Sanjay Patil,Orthopedics,2026-03-23,,R128,Admitted,700,600,8000,9300,Paid
+P034,Arjun Gaikwad,59,Female,AB+,Asthma,Wheezing; shortness of breath,Dr. Neha Rao,Pulmonology,2026-04-25,2026-04-29,R203,Discharged,600,2500,2000,5100,Pending
+P035,Priya Kadam,66,Female,AB-,Type 2 Diabetes,Increased thirst; fatigue,Dr. Kavita Joshi,Endocrinology,2026-03-01,,R167,Under Treatment,500,5000,5000,10500,Paid
+P036,Ishaan Chavan,56,Female,AB-,Kidney Stones,Abdominal pain; painful urination,Dr. Anil Kulkarni,Urology,2026-09-19,2026-09-29,R149,Discharged,600,600,12000,13200,Pending
+P037,Aarav Shinde,69,Other,B-,Migraine,Recurring severe headache,Dr. Meera Desai,Neurology,2026-08-09,2026-08-20,R185,Discharged,800,2800,11000,14600,Paid
+P038,Om Shinde,40,Other,O+,Migraine,Recurring severe headache,Dr. Meera Desai,Neurology,2026-07-26,,R242,Admitted,500,1800,7000,9300,Partially Paid
+P039,Sneha Kadam,23,Other,AB+,Kidney Stones,Abdominal pain; painful urination,Dr. Anil Kulkarni,Urology,2026-10-08,,R178,Admitted,600,2000,7000,9600,Partially Paid
+P040,Riya Kadam,42,Female,O-,Anemia,Fatigue; weakness,Dr. Pooja Mehta,Hematology,2026-04-20,2026-05-02,R144,Discharged,1000,900,5000,6900,Partially Paid
+P041,Riya Joshi,12,Male,AB+,Asthma,Wheezing; shortness of breath,Dr. Neha Rao,Pulmonology,2026-04-12,2026-04-13,R163,Discharged,700,5300,2000,8000,Pending
+P042,Kavya Sawant,81,Other,B-,Back Pain,Lower back pain; stiffness,Dr. Sanjay Patil,Orthopedics,2026-07-16,2026-07-20,R138,Discharged,1000,5900,1000,7900,Paid
+P043,Kavya Jadhav,23,Other,O-,Type 2 Diabetes,Increased thirst; fatigue,Dr. Kavita Joshi,Endocrinology,2026-10-13,2026-10-15,R217,Discharged,500,4100,11000,15600,Partially Paid
+P044,Ira Chavan,41,Female,O+,Gastritis,Stomach pain; nausea,Dr. Rahul Nair,Gastroenterology,2026-08-17,,R291,Under Treatment,700,3900,5000,9600,Paid
+P045,Kunal Mane,67,Female,B-,Arthritis,Joint pain; stiffness,Dr. Sanjay Patil,Orthopedics,2026-08-14,2026-08-19,R161,Discharged,600,3000,6000,9600,Partially Paid
+P046,Aditya Kulkarni,20,Male,O+,Back Pain,Lower back pain; stiffness,Dr. Sanjay Patil,Orthopedics,2026-03-20,,R117,Admitted,700,3600,6000,10300,Partially Paid
+P047,Aditi More,8,Male,O+,Kidney Stones,Abdominal pain; painful urination,Dr. Anil Kulkarni,Urology,2026-10-27,,R106,Under Treatment,800,3400,8000,12200,Paid
+P048,Priya Deshmukh,50,Female,B-,Anemia,Fatigue; weakness,Dr. Pooja Mehta,Hematology,2026-04-23,2026-05-01,R108,Discharged,700,3000,11000,14700,Partially Paid
+P049,Sneha Bhosale,22,Female,B+,Thyroid Disorder,Weight change; tiredness,Dr. Kavita Joshi,Endocrinology,2026-10-01,2026-10-08,R252,Discharged,800,5700,1000,7500,Paid
+P050,Kavya Kulkarni,60,Male,A+,Arthritis,Joint pain; stiffness,Dr. Sanjay Patil,Orthopedics,2026-07-14,2026-07-22,R184,Discharged,600,3400,5000,9000,Pending
+P051,Kunal Gaikwad,11,Female,A+,Back Pain,Lower back pain; stiffness,Dr. Sanjay Patil,Orthopedics,2026-10-04,2026-10-10,R158,Discharged,1000,800,11000,12800,Paid
+P052,Aarav Jadhav,26,Male,B+,Asthma,Wheezing; shortness of breath,Dr. Neha Rao,Pulmonology,2026-03-06,2026-03-08,R245,Discharged,500,4100,12000,16600,Pending
+P053,Priya Kulkarni,78,Other,A-,Hypertension,High blood pressure; dizziness,Dr. Raj Verma,Cardiology,2026-06-09,2026-06-10,R180,Discharged,800,5800,7000,13600,Pending
+P054,Arjun Sharma,76,Other,B-,Viral Fever,Fever; headache; body ache,Dr. Amit Shah,General Medicine,2026-06-04,,R254,Admitted,400,4900,1000,6300,Pending
+P055,Ira More,85,Female,A-,Gastritis,Stomach pain; nausea,Dr. Rahul Nair,Gastroenterology,2026-06-24,2026-07-01,R311,Discharged,700,1100,7000,8800,Pending
+P056,Aditi Bhosale,20,Female,B+,Back Pain,Lower back pain; stiffness,Dr. Sanjay Patil,Orthopedics,2026-09-25,,R170,Under Treatment,800,4700,8000,13500,Pending
+P057,Kavya Gaikwad,76,Female,AB-,Asthma,Wheezing; shortness of breath,Dr. Neha Rao,Pulmonology,2026-02-14,2026-02-22,R163,Discharged,700,4900,10000,15600,Partially Paid
+P058,Sneha Joshi,4,Female,AB-,Hypertension,High blood pressure; dizziness,Dr. Raj Verma,Cardiology,2026-09-07,2026-09-12,R188,Discharged,600,5100,12000,17700,Pending
+P059,Ira Patil,67,Male,A-,Asthma,Wheezing; shortness of breath,Dr. Neha Rao,Pulmonology,2026-07-28,2026-08-01,R277,Discharged,700,5500,12000,18200,Pending
+P060,Aditi Mane,3,Male,AB+,Asthma,Wheezing; shortness of breath,Dr. Neha Rao,Pulmonology,2026-07-27,,R179,Admitted,1000,5000,6000,12000,Pending
+P061,Ira Shinde,45,Female,AB-,Migraine,Recurring severe headache,Dr. Meera Desai,Neurology,2026-08-21,2026-08-26,R160,Discharged,400,1800,6000,8200,Paid
+P062,Ira Mane,89,Male,B-,Asthma,Wheezing; shortness of breath,Dr. Neha Rao,Pulmonology,2026-09-05,2026-09-15,R295,Discharged,800,5100,5000,10900,Paid
+P063,Arjun Deshmukh,30,Female,B+,Arthritis,Joint pain; stiffness,Dr. Sanjay Patil,Orthopedics,2026-01-08,,R133,Admitted,600,600,1000,2200,Partially Paid
+P064,Om Bhosale,17,Other,O-,Viral Fever,Fever; headache; body ache,Dr. Amit Shah,General Medicine,2026-01-07,2026-01-15,R223,Discharged,700,3000,3000,6700,Paid
+P065,Kunal Gaikwad,62,Male,A-,Kidney Stones,Abdominal pain; painful urination,Dr. Anil Kulkarni,Urology,2026-09-09,2026-09-20,R276,Discharged,400,1500,3000,4900,Partially Paid
+P066,Om Sharma,32,Male,O+,Thyroid Disorder,Weight change; tiredness,Dr. Kavita Joshi,Endocrinology,2026-04-26,,R198,Admitted,700,3900,5000,9600,Partially Paid
+P067,Kavya Deshmukh,73,Other,A+,Thyroid Disorder,Weight change; tiredness,Dr. Kavita Joshi,Endocrinology,2026-02-20,,R154,Under Treatment,1000,2000,5000,8000,Partially Paid
+P068,Aditya Kulkarni,31,Male,A-,Hypertension,High blood pressure; dizziness,Dr. Raj Verma,Cardiology,2026-01-02,2026-01-14,R253,Discharged,700,2600,1000,4300,Paid
+P069,Om Bhosale,37,Other,O-,Viral Fever,Fever; headache; body ache,Dr. Amit Shah,General Medicine,2026-04-30,,R302,Under Treatment,1000,5100,4000,10100,Pending
+P070,Ishaan Shinde,29,Other,B+,Arthritis,Joint pain; stiffness,Dr. Sanjay Patil,Orthopedics,2026-03-14,2026-03-17,R303,Discharged,600,5100,12000,17700,Partially Paid
+P071,Om Pawar,16,Female,AB+,Back Pain,Lower back pain; stiffness,Dr. Sanjay Patil,Orthopedics,2026-07-26,,R229,Under Treatment,800,4300,8000,13100,Paid
+P072,Riya Patil,56,Other,AB-,Thyroid Disorder,Weight change; tiredness,Dr. Kavita Joshi,Endocrinology,2026-05-09,2026-05-13,R273,Discharged,800,5100,1000,6900,Partially Paid
+P073,Kunal Chavan,6,Male,O-,Gastritis,Stomach pain; nausea,Dr. Rahul Nair,Gastroenterology,2026-08-15,,R147,Under Treatment,800,3800,8000,12600,Paid
+P074,Neha Joshi,53,Female,AB-,Respiratory Infection,Cough; sore throat,Dr. Neha Rao,Pulmonology,2026-02-23,,R185,Admitted,700,5900,8000,14600,Pending
+P075,Sneha Gaikwad,71,Male,O-,Viral Fever,Fever; headache; body ache,Dr. Amit Shah,General Medicine,2026-06-11,2026-06-13,R298,Discharged,700,4500,1000,6200,Partially Paid
+P076,Ira Pawar,53,Male,B-,Gastritis,Stomach pain; nausea,Dr. Rahul Nair,Gastroenterology,2026-07-05,2026-07-13,R261,Discharged,700,700,4000,5400,Pending
+P077,Ira Kulkarni,37,Female,O-,Viral Fever,Fever; headache; body ache,Dr. Amit Shah,General Medicine,2026-01-15,,R256,Under Treatment,500,1500,5000,7000,Partially Paid
+P078,Aarav Shinde,53,Male,B-,Viral Fever,Fever; headache; body ache,Dr. Amit Shah,General Medicine,2026-08-25,,R266,Under Treatment,500,4300,5000,9800,Partially Paid
+P079,Kunal More,62,Female,B-,Anemia,Fatigue; weakness,Dr. Pooja Mehta,Hematology,2026-10-10,2026-10-14,R254,Discharged,800,1400,2000,4200,Pending
+P080,Kavya Joshi,65,Female,A+,Arthritis,Joint pain; stiffness,Dr. Sanjay Patil,Orthopedics,2026-06-02,,R249,Admitted,1000,4300,3000,8300,Pending
+P081,Ira Pawar,45,Female,O+,Anemia,Fatigue; weakness,Dr. Pooja Mehta,Hematology,2026-06-14,,R279,Under Treatment,500,4900,7000,12400,Paid
+P082,Kavya Patil,41,Other,O-,Back Pain,Lower back pain; stiffness,Dr. Sanjay Patil,Orthopedics,2026-07-15,2026-07-26,R303,Discharged,1000,1500,8000,10500,Paid
+P083,Rohan Shinde,76,Female,A-,Anemia,Fatigue; weakness,Dr. Pooja Mehta,Hematology,2026-02-21,2026-03-01,R104,Discharged,1000,1400,7000,9400,Partially Paid
+P084,Rohan Sharma,61,Female,AB-,Thyroid Disorder,Weight change; tiredness,Dr. Kavita Joshi,Endocrinology,2026-07-23,2026-07-29,R319,Discharged,1000,4600,7000,12600,Pending
+P085,Neha Gaikwad,70,Male,A-,Asthma,Wheezing; shortness of breath,Dr. Neha Rao,Pulmonology,2026-05-28,,R292,Under Treatment,400,3800,2000,6200,Partially Paid
+P086,Ishaan Pawar,22,Other,AB+,Type 2 Diabetes,Increased thirst; fatigue,Dr. Kavita Joshi,Endocrinology,2026-01-24,2026-01-25,R176,Discharged,600,3300,7000,10900,Paid
+P087,Sahil Shinde,53,Other,B+,Hypertension,High blood pressure; dizziness,Dr. Raj Verma,Cardiology,2026-03-31,2026-04-07,R259,Discharged,1000,2200,8000,11200,Partially Paid
+P088,Rohan Jadhav,60,Other,AB+,Anemia,Fatigue; weakness,Dr. Pooja Mehta,Hematology,2026-05-11,2026-05-19,R174,Discharged,1000,4700,3000,8700,Paid
+P089,Aditi Joshi,76,Female,O+,Back Pain,Lower back pain; stiffness,Dr. Sanjay Patil,Orthopedics,2026-05-09,2026-05-14,R151,Discharged,700,4200,2000,6900,Paid
+P090,Sneha Chavan,46,Other,AB+,Back Pain,Lower back pain; stiffness,Dr. Sanjay Patil,Orthopedics,2026-06-01,2026-06-12,R202,Discharged,600,300,10000,10900,Partially Paid
+P091,Vivaan Sawant,78,Other,O-,Arthritis,Joint pain; stiffness,Dr. Sanjay Patil,Orthopedics,2026-04-28,2026-05-04,R157,Discharged,1000,1800,10000,12800,Pending
+P092,Rohan Kadam,13,Other,A+,Arthritis,Joint pain; stiffness,Dr. Sanjay Patil,Orthopedics,2026-08-14,2026-08-20,R288,Discharged,500,1000,5000,6500,Pending
+P093,Kavya Kulkarni,26,Male,AB-,Gastritis,Stomach pain; nausea,Dr. Rahul Nair,Gastroenterology,2026-09-14,,R313,Under Treatment,500,2400,8000,10900,Pending
+P094,Ananya Mane,15,Female,A-,Hypertension,High blood pressure; dizziness,Dr. Raj Verma,Cardiology,2026-04-26,,R286,Under Treatment,1000,3500,6000,10500,Paid
+P095,Sneha Patil,34,Other,A-,Anemia,Fatigue; weakness,Dr. Pooja Mehta,Hematology,2026-07-08,2026-07-19,R168,Discharged,800,3400,11000,15200,Pending
+P096,Ishaan Kadam,30,Female,A+,Thyroid Disorder,Weight change; tiredness,Dr. Kavita Joshi,Endocrinology,2026-10-15,2026-10-25,R157,Discharged,1000,800,11000,12800,Pending
+P097,Om Kadam,53,Male,B+,Type 2 Diabetes,Increased thirst; fatigue,Dr. Kavita Joshi,Endocrinology,2026-01-20,2026-01-28,R130,Discharged,400,2200,9000,11600,Paid
+P098,Sneha Pawar,48,Other,O+,Thyroid Disorder,Weight change; tiredness,Dr. Kavita Joshi,Endocrinology,2026-03-21,,R268,Under Treatment,400,4300,7000,11700,Pending
+P099,Vivaan Bhosale,48,Male,O-,Anemia,Fatigue; weakness,Dr. Pooja Mehta,Hematology,2026-05-01,,R126,Admitted,1000,3300,6000,10300,Paid
+P100,Sneha Deshmukh,25,Male,O-,Viral Fever,Fever; headache; body ache,Dr. Amit Shah,General Medicine,2026-04-19,2026-04-29,R106,Discharged,400,3000,4000,7400,Paid
